@@ -1,1 +1,1 @@
-# git-sourse
+# git-course demo
